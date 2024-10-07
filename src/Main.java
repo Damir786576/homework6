@@ -1,6 +1,5 @@
 public class Main {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         // 1 задача
         for (byte i = 1; i < 11; i++) {
             System.out.println(i);
